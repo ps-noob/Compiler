@@ -1,3 +1,5 @@
+using Compiler.CodeAnalysis.Text;
+
 namespace Compiler.CodeAnalysis.Syntax
 {
     internal sealed class Lexer {
