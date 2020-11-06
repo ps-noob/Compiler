@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using System.Reflection;
 
 namespace Compiler.CodeAnalysis.Syntax
@@ -7,6 +8,15 @@ namespace Compiler.CodeAnalysis.Syntax
     {
          public abstract SyntaxKind Kind { get ; }
 
+        public virtual TextSpan Span
+        {
+            get
+            {
+                var first = GetChildren().First().Span;
+                var last = GetChildren().Last().Span;
+                return TextSpan.FromBounds(first.Start, last.End);
+            }
+        }
         public IEnumerable<SyntaxNode> GetChildren()
         {
             var properties = GetType().GetProperties(BindingFlags.Public | System.Reflection.BindingFlags.Instance);
