@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g3G4zE3wY+cDMltEsJUECb+Bnu7VJ9nU4oEHpq8Jp/jYYgZqA2MHqnqVRlGJcy5BCR/QSSpW+b5GrF06IDkqIg==",
+  "dgSpecHash": "oL8NUIn9ZTuoCvFGIxguQ9mAy0CKajt5teoTdubpguXMDW/q6m7ZdqQPpsrZNRUOZExV8d09r+SOw6uHWTeQ9Q==",
   "success": true,
   "projectFilePath": "C:\\Projects\\CS-Compiler\\Compiler.Tests\\Compiler.Tests.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\srsha\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\srsha\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",

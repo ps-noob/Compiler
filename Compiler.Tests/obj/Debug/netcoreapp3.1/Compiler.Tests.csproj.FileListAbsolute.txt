@@ -194,3 +194,4 @@ C:\Projects\CS-Compiler\Compiler.Tests\obj\Debug\netcoreapp3.1\Compiler.Tests.cs
 C:\Projects\CS-Compiler\Compiler.Tests\obj\Debug\netcoreapp3.1\Compiler.Tests.dll
 C:\Projects\CS-Compiler\Compiler.Tests\obj\Debug\netcoreapp3.1\Compiler.Tests.pdb
 C:\Projects\CS-Compiler\Compiler.Tests\obj\Debug\netcoreapp3.1\Compiler.Tests.genruntimeconfig.cache
+C:\Projects\CS-Compiler\Compiler.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
