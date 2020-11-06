@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CS-Compiler\\mc\\mc.csproj": {}
+    "C:\\Projects\\Compiler\\mc\\mc.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj": {
+    "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj",
+        "projectUniqueName": "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj",
         "projectName": "Compiler",
-        "projectPath": "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj",
+        "projectPath": "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj",
         "packagesPath": "C:\\Users\\srsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CS-Compiler\\Compiler\\obj\\",
+        "outputPath": "C:\\Projects\\Compiler\\Compiler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Projects\\CS-Compiler\\NuGet.Config",
+          "C:\\Projects\\Compiler\\NuGet.Config",
           "C:\\Users\\srsha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -62,17 +62,17 @@
         }
       }
     },
-    "C:\\Projects\\CS-Compiler\\mc\\mc.csproj": {
+    "C:\\Projects\\Compiler\\mc\\mc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CS-Compiler\\mc\\mc.csproj",
+        "projectUniqueName": "C:\\Projects\\Compiler\\mc\\mc.csproj",
         "projectName": "mc",
-        "projectPath": "C:\\Projects\\CS-Compiler\\mc\\mc.csproj",
+        "projectPath": "C:\\Projects\\Compiler\\mc\\mc.csproj",
         "packagesPath": "C:\\Users\\srsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CS-Compiler\\mc\\obj\\",
+        "outputPath": "C:\\Projects\\Compiler\\mc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Projects\\CS-Compiler\\NuGet.Config",
+          "C:\\Projects\\Compiler\\NuGet.Config",
           "C:\\Users\\srsha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -84,8 +84,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj": {
-                "projectPath": "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj"
+              "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj": {
+                "projectPath": "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj"
               }
             }
           }

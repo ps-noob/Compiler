@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lvNILOIkZGZsUUHT5SQIDYx+OgWtqDoaDFqCE3afa7ZeRKtakFxB1FwyIrrEaxNdm8UVWUEKB3V9Nxa89phy9Q==",
+  "dgSpecHash": "5uLFVlnUQ7ICa0GfSQBOqomT9oCeignNKIPuFgAdC4UgL8HYyQYOoJLNQAzp449kCzWSvYWsC5tUp/olsVk7Qg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CS-Compiler\\mc\\mc.csproj",
+  "projectFilePath": "C:\\Projects\\Compiler\\mc\\mc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srsha\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
   ],

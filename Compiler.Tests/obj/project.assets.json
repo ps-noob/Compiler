@@ -3564,14 +3564,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CS-Compiler\\Compiler.Tests\\Compiler.Tests.csproj",
+      "projectUniqueName": "C:\\Projects\\Compiler\\Compiler.Tests\\Compiler.Tests.csproj",
       "projectName": "Compiler.Tests",
-      "projectPath": "C:\\Projects\\CS-Compiler\\Compiler.Tests\\Compiler.Tests.csproj",
+      "projectPath": "C:\\Projects\\Compiler\\Compiler.Tests\\Compiler.Tests.csproj",
       "packagesPath": "C:\\Users\\srsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CS-Compiler\\Compiler.Tests\\obj\\",
+      "outputPath": "C:\\Projects\\Compiler\\Compiler.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Projects\\CS-Compiler\\NuGet.Config",
+        "C:\\Projects\\Compiler\\NuGet.Config",
         "C:\\Users\\srsha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3583,8 +3583,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj": {
-              "projectPath": "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj"
+            "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj": {
+              "projectPath": "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj"
             }
           }
         }

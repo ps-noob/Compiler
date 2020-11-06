@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PkhRKHVSoEReAIg8gbEC4IdkUAdHaJsvIqk/OMw2cgMhbYmHEGpG3TqTOAMinrw1+ukC36S0FpYLODgloXgDXg==",
+  "dgSpecHash": "Er7nNXzq1Qu/tw9ZRW/9ovZZGiMCOriWgif47H8eczygEMdskiNoOldBZ0mAcg2NTtPJJtplSjvg/+2Yu5rVbA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CS-Compiler\\Compiler\\Compiler.csproj",
+  "projectFilePath": "C:\\Projects\\Compiler\\Compiler\\Compiler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srsha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\srsha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
